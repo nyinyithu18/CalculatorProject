@@ -1,0 +1,13 @@
+.outputContainer{
+    width: 400px;
+    height: 40px;
+}
+
+.innerOutputContainer{
+    padding-right: 15px;
+    background-color: #454545;
+    text-align: end;
+    font-size: 25px;
+    line-height: 45px;
+    color: white;
+}
